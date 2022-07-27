@@ -23,6 +23,7 @@ value the address of the element a(i+1)1 in the above notation, and a[i][ j] wil
 the same notation, the second use of the operator [] being the predefined one for pointers to the type of matrix
 elements.
 
+
 */
 
 /*
